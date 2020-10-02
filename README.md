@@ -6,3 +6,4 @@ Adopted for Self-Employed individuals earning Commission income
 #### NET PROFIT
 ### OPERATING EXPENSES
 ### NET INCOME (LOSS)
+
