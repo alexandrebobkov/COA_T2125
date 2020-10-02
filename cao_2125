@@ -1,0 +1,56 @@
+REVENUES
+8000  Sales
+8230  Other Income
+8290  Reserves
+8299  Gross Revenues
+
+COST OF GOODS SOLD
+8300  Opening Inventory
+8320  Purchases During the Year
+8340  Direct Wage Costs
+8360  Subcontracts
+8450  Other Costs
+8500  Closing Inventory
+
+GROSS PROFITS
+8519  Gross Profit
+
+EXPENSES
+8521  Advertising
+8523  Meals and Entertainment
+8590  Bad Debts
+8690  Insurance
+8710  Interest and Bank Charges
+8760  Business taxes, Licenses, and Memberships
+8810  Office Expenses
+8811  Office Stationery and Supplies
+8860  Professional Fees
+8871  Management and Administration Fees
+8910  Rent
+8960  Repairs and Maintenance
+9060  Salaries, Wages, and Benefits
+9180  Property Taxes
+9200  Travel Exoenses
+9220  Utilities
+9224  Fuel Costs (except for motor vehicles)
+9275  Delivery, Freight, and Express
+9281  Motor Vehicle Expenses
+  A Fuel and Oil
+  B Interest
+  C Licence and Registration
+  D Maintenance and Repairs
+  E Leasing
+  F Other
+9936  Capital Cost Allowance
+9270  Other Expenses
+9945  Business Use of Home Expenses
+  A Heat
+  B Electricity
+  C Insurance
+  D Maintenance
+  E Mortgage Interest
+  F Property Taxes
+  G Other Expenses
+
+NET INCOME
+9946  Net Income (Loss)
