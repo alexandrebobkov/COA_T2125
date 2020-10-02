@@ -53,7 +53,7 @@ EXPENSES
 	9281.7 Maintenance and Repairs
 	9281.8 Licence and Registration
 	9281.9 Parking
-  F Other
+	F Other
 9936  Capital Cost Allowance
 9270  Other Expenses
 9945  Business Use of Home Expenses
