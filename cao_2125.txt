@@ -1,5 +1,7 @@
 # Schedule T2125 - Statement of Professional and Business Activities
-# 
+#
+# CHART OF ACCOUNTS ADOPTED FOR COMMISSION BASED BUSINESS
+
 
 REVENUES
 8000  Sales
@@ -20,14 +22,21 @@ GROSS PROFITS
 
 EXPENSES
 8521  Advertising
+	8521.1	Promitional Photography and Signs
+	8521.2	Business Cards and Flyers
+	8521.4	Advertising
+	8521.8	Webhosting
 8523  Meals and Entertainment
 8590  Bad Debts
 8690  Insurance
 8710  Interest and Bank Charges
+	8710.4	Banking Monthly Fees
+8712  Interest Expenses
 8760  Business taxes, Licenses, and Memberships
 8810  Office Expenses
 8811  Office Stationery and Supplies
 8860  Professional Fees
+	8860.4	Accounting and Bookkeeping
 8871  Management and Administration Fees
 8910  Rent
 8960  Repairs and Maintenance
@@ -38,11 +47,12 @@ EXPENSES
 9224  Fuel Costs (except for motor vehicles)
 9275  Delivery, Freight, and Express
 9281  Motor Vehicle Expenses
-  A Fuel and Oil
-  B Interest
-  C Licence and Registration
-  D Maintenance and Repairs
-  E Leasing
+	9281.3 Fuel and Oil
+	9281.4 Interest
+	9281.5 Auto Insurance
+	9281.7 Maintenance and Repairs
+	9281.8 Licence and Registration
+	9281.9 Parking
   F Other
 9936  Capital Cost Allowance
 9270  Other Expenses
